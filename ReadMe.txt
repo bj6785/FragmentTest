@@ -1,0 +1,2 @@
+Fragment练习:
+fragment静态加载、动态加载、fragment与activity通讯
